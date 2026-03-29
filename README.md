@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV1pK4y1z7no
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 基于Vue.js和SpringBoot的房屋租赁系统，分为管理后台和用户网页端，可以给管理员、租客角色使用，包括房屋信息、看房申请、租赁合同、房屋报修、收租信息、维修数据、租客管理、公告管理和系统基础模块，项目编号T040。
 
